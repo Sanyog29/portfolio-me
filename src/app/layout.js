@@ -10,8 +10,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <title>Shivansh Gaur | Portfolio</title>
-        <meta name="description" content="Portfolio of Shivansh Gaur - Developer & Tech Enthusiast" />
+        <title>Sanyog Tripathi | Portfolio</title>
+        <meta name="description" content="Portfolio of Sanyog Tripathi - Developer & Tech Enthusiast" />
       </head>
       <body className={`${inter.variable} antialiased`}>
         {children}
